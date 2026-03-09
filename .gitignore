@@ -1,0 +1,30 @@
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+
+UserSettings/
+
+# IDE
+.vscode/
+.idea/
+*.csproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Unity cache / generated
+sysinfo.txt
